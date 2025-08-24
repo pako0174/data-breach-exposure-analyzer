@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200"/>
+  <img src="[logo.png](https://github.com/pako0174/data-breach-exposure-analyzer/blob/main/7ce3e00d-1e1b-4ed1-9bdb-5890cc6b0b6d.png)" width="200"/>
 </p>
 
 # Data Breach Exposure Analyzer
